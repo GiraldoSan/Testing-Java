@@ -10,3 +10,11 @@ Framework de pruebas: Selenium
 Funcionalidad Automatizada
 
 Registro exitoso: Validar que un usuario puede registrarse con datos válidos.
+
+git clone https://github.com/GiraldoSan/Testing-Java.git
+
+Autor
+
+Santiago Giraldo Duque
+Ingeniero de Sistemas | Automatizador de Pruebas | Desarrollador de Software 
+[www.linkedin.com/in/santiagogird]
