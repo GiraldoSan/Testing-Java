@@ -15,6 +15,6 @@ git clone https://github.com/GiraldoSan/Testing-Java.git
 
 Autor
 
-Santiago Giraldo Duque
+Santiago Giraldo Duque |
 Ingeniero de Sistemas | Automatizador de Pruebas | Desarrollador de Software 
 [www.linkedin.com/in/santiagogird]
